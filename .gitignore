@@ -22,4 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-config.bat
+
+# Local secrets
+.env
+.env.*
